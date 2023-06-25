@@ -4,4 +4,4 @@
 # Ignorar arquivos de configuração específicos
 
 # Ignorar pastas
-venv/
+/venv/
