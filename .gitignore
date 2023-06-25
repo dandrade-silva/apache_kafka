@@ -2,7 +2,6 @@
 # Ignorar arquivos de compilação
 
 # Ignorar arquivos de configuração específicos
-config.ini
 
 # Ignorar pastas
 venv/
